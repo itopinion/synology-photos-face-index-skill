@@ -1,0 +1,4 @@
+interface:
+  display_name: "Synology Photos Face Index"
+  short_description: "Export Synology Photos face albums to path-only index files."
+  default_prompt: "Export a Synology Photos face/person album into a text index of original NAS photo paths without copying photos."
